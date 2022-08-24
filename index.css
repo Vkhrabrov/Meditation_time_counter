@@ -1,0 +1,46 @@
+body {
+    background-image: url("meditation.jpeg");
+    background-size: cover;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    
+}
+
+#save-el{
+    color: white;
+    text-shadow: 0px 0px 5px white;
+
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px; 
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
